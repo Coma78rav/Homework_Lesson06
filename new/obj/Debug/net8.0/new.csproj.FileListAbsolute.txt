@@ -1,0 +1,15 @@
+D:\GB\Homework\Seminar06\new\bin\Debug\net8.0\new.exe
+D:\GB\Homework\Seminar06\new\bin\Debug\net8.0\new.deps.json
+D:\GB\Homework\Seminar06\new\bin\Debug\net8.0\new.runtimeconfig.json
+D:\GB\Homework\Seminar06\new\bin\Debug\net8.0\new.dll
+D:\GB\Homework\Seminar06\new\bin\Debug\net8.0\new.pdb
+D:\GB\Homework\Seminar06\new\obj\Debug\net8.0\new.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\Homework\Seminar06\new\obj\Debug\net8.0\new.AssemblyInfoInputs.cache
+D:\GB\Homework\Seminar06\new\obj\Debug\net8.0\new.AssemblyInfo.cs
+D:\GB\Homework\Seminar06\new\obj\Debug\net8.0\new.csproj.CoreCompileInputs.cache
+D:\GB\Homework\Seminar06\new\obj\Debug\net8.0\new.sourcelink.json
+D:\GB\Homework\Seminar06\new\obj\Debug\net8.0\new.dll
+D:\GB\Homework\Seminar06\new\obj\Debug\net8.0\refint\new.dll
+D:\GB\Homework\Seminar06\new\obj\Debug\net8.0\new.pdb
+D:\GB\Homework\Seminar06\new\obj\Debug\net8.0\new.genruntimeconfig.cache
+D:\GB\Homework\Seminar06\new\obj\Debug\net8.0\ref\new.dll

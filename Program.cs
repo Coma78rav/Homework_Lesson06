@@ -1,6 +1,7 @@
 ﻿// Задача 1: 
 // Задайте двумерный массив символов (тип char[,]). Создать строку из символов этого массива. 
 
+
 // char[,] charArray = new char[,] { { 'a', 'b' }, { 'c', 'd' } };
 // string result = CreateString(charArray);
 // Console.WriteLine(result);
@@ -60,31 +61,31 @@
 // Задача 3: 
 // Задайте произвольную строку. Выясните, является ли она палиндромом.
 
-Console.Clear();
-bool Answer(string str)
-{
-    for (int i = 0; i < str.Length / 2; i++)
-    {
-        if (str[i] != str[str.Length - 1 - i])
-        {
-            return false;
-        }
+// Console.Clear();
+// bool Answer(string str)
+// {
+//     for (int i = 0; i < str.Length / 2; i++)
+//     {
+//         if (str[i] != str[str.Length - 1 - i])
+//         {
+//             return false;
+//         }
 
-    }
-    return true;
-}
-void PrintAnswer(bool answer)
-{
-    if (answer == true)
-    {
-        Console.WriteLine("Yes");
-    }
-    else
-    {
-        Console.WriteLine("No");
-    }
-}
-Console.Clear();
-Console.Write("Введите строку: ");
-string str = Console.ReadLine()!;
-PrintAnswer(Answer(str));
+//     }
+//     return true;
+// }
+// void PrintAnswer(bool answer)
+// {
+//     if (answer == true)
+//     {
+//         Console.WriteLine("Yes");
+//     }
+//     else
+//     {
+//         Console.WriteLine("No");
+//     }
+// }
+// Console.Clear();
+// Console.Write("Введите строку: ");
+// string str = Console.ReadLine()!;
+// PrintAnswer(Answer(str));

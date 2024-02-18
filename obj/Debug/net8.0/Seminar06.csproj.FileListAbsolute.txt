@@ -12,3 +12,4 @@ D:\GB\Homework\Seminar06\obj\Debug\net8.0\refint\Seminar06.dll
 D:\GB\Homework\Seminar06\obj\Debug\net8.0\Seminar06.pdb
 D:\GB\Homework\Seminar06\obj\Debug\net8.0\Seminar06.genruntimeconfig.cache
 D:\GB\Homework\Seminar06\obj\Debug\net8.0\ref\Seminar06.dll
+D:\GB\Homework\Seminar06\obj\Debug\net8.0\Seminar06.sourcelink.json
